@@ -2,7 +2,7 @@
 
 By Stepan Komkov, Maksim Dzabraev and Aleksandr Petiushko
 
-This is the code for the [Mutual Modality Learning article](https://arxiv.org/abs/2011.02543) by .
+This is the code for the [Mutual Modality Learning article](https://arxiv.org/abs/2011.02543).
 
 ## Abstract
 
