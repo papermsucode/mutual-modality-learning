@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mutual-modality-learning-for-video-action/action-recognition-in-videos-on-something)](https://paperswithcode.com/sota/action-recognition-in-videos-on-something?p=mutual-modality-learning-for-video-action)
+
 # Mutual Modality Learning for Video Action Classification
 
 By Stepan Komkov, Maksim Dzabraev and Aleksandr Petiushko
